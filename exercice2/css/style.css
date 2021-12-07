@@ -1,0 +1,14 @@
+.container {
+  padding: auto;
+  margin: 5%;
+}
+.btn-group-lg > .btn,
+.btn-lg {
+  padding: 15rem 3rem;
+  font-size: 2.5rem;
+  line-height: 3.5;
+}
+h3 {
+  text-align: center;
+}
+
